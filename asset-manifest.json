@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/livetodo/static/css/main.260a9eb6.chunk.css",
+    "main.js": "/livetodo/static/js/main.a2533981.chunk.js",
+    "main.js.map": "/livetodo/static/js/main.a2533981.chunk.js.map",
+    "runtime-main.js": "/livetodo/static/js/runtime-main.09b7d294.js",
+    "runtime-main.js.map": "/livetodo/static/js/runtime-main.09b7d294.js.map",
+    "static/js/2.f0303745.chunk.js": "/livetodo/static/js/2.f0303745.chunk.js",
+    "static/js/2.f0303745.chunk.js.map": "/livetodo/static/js/2.f0303745.chunk.js.map",
+    "static/js/3.43b7d8ea.chunk.js": "/livetodo/static/js/3.43b7d8ea.chunk.js",
+    "static/js/3.43b7d8ea.chunk.js.map": "/livetodo/static/js/3.43b7d8ea.chunk.js.map",
+    "index.html": "/livetodo/index.html",
+    "static/css/main.260a9eb6.chunk.css.map": "/livetodo/static/css/main.260a9eb6.chunk.css.map",
+    "static/js/2.f0303745.chunk.js.LICENSE.txt": "/livetodo/static/js/2.f0303745.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b7d294.js",
+    "static/js/2.f0303745.chunk.js",
+    "static/css/main.260a9eb6.chunk.css",
+    "static/js/main.a2533981.chunk.js"
+  ]
+}
