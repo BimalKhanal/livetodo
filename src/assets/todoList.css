@@ -39,7 +39,8 @@
 h1 {
   color: white;
   background: transparent;
-  background-color: #8566bb;
+  /* background-color: #8566bb; */
+  background-color: black;
   padding: 6px 0 2px 0;
   margin-bottom: 10px;
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
